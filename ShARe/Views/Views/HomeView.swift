@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import ACarousel
 
 struct HomeView: View {
     @State var isDarkMode: Bool = false

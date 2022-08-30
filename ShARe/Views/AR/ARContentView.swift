@@ -82,8 +82,12 @@ extension ARViewContainer {
                 //If connected to a peer, generate a participant anchor for their tracking sphere and XYZ guides
                 if let participantAnchor = anchor as? ARParticipantAnchor{
                     print("Established joint experience with a peer.")
-                    //anchor: participantAnchor
+                    
+                    //If simulating on Xcode for view testing
+                    //let anchorEntity = AnchorEntity()
+                    //If building on physical iOS Device
                     let anchorEntity = AnchorEntity(anchor: participantAnchor)
+                    
                     
                     let coordinateSystem = MeshResource.generateCoordinateSystemAxes()
                     anchorEntity.addChild(coordinateSystem)
@@ -151,8 +155,11 @@ extension ARView {
         entity.generateCollisionShapes(recursive: true)
         self.installGestures([.all], for: entity)
         
-        //anchor: anchor
+        //If simulating on Xcode for view testing
+        //let anchorEntity = AnchorEntity()
+        //If building on physical iOS Device
         let anchorEntity = AnchorEntity(anchor: anchor)
+        
         anchorEntity.addChild(entity)
         self.scene.addAnchor(anchorEntity)
     }

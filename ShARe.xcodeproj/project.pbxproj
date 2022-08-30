@@ -116,7 +116,7 @@
 				96694556286A028F00DF430F /* ShARe */,
 				96694567286A029300DF430F /* ShAReTests */,
 				96694571286A029300DF430F /* ShAReUITests */,
-				96716062289439EA00A1ECD8 /* LICENSE */,
+				9671606528943A7400A1ECD8 /* LICENSE.txt */,
 				96694555286A028F00DF430F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -167,14 +167,6 @@
 				96694574286A029300DF430F /* ShAReUITestsLaunchTests.swift */,
 			);
 			path = ShAReUITests;
-			sourceTree = "<group>";
-		};
-		96716062289439EA00A1ECD8 /* LICENSE */ = {
-			isa = PBXGroup;
-			children = (
-				9671606528943A7400A1ECD8 /* LICENSE.txt */,
-			);
-			path = LICENSE;
 			sourceTree = "<group>";
 		};
 		96734E4B2885B53400540306 /* Models */ = {
