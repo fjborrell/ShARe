@@ -1,5 +1,6 @@
 # ShARe
 ![Icon](/docs/images/icon.png)
+<img src="/docs/images/icon.png" alt="Icon" title="AppIcon" width="100" height="100" /> 
 
 Simple overview of use/purpose.
 
@@ -32,6 +33,7 @@ let anchorEntity = AnchorEntity(anchor: participantAnchor)
 
 ### Multipeer Connectivity Demo
 ![MutlipeerPic](/docs/images/multipeer_picture.png)
+
 ![MutlipeerDemo](/docs/gifs/multipeer_demo.gif)
 
 ### Dark Mode & App Info Page
@@ -39,6 +41,7 @@ let anchorEntity = AnchorEntity(anchor: participantAnchor)
 
 ### LAN & Camera Access Requests
 ![LAN](/docs/images/LAN_access.png)
+
 ![Camera](/docs/images/camera_access.png)
 
 ## License
