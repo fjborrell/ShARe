@@ -35,13 +35,23 @@ let anchorEntity = AnchorEntity(anchor: participantAnchor)
 <img src="/docs/gifs/multipeer_demo.gif" alt="MultipeerDemo" title="MultipeerDemo" width="600" height="480" /> 
 
 
-### Dark Mode & App Info Page
-<img src="/docs/gifs/dark_mode_demo.gif" alt="DarkMode" title="DarkMode" width="240" height="500" /> 
-
-
-### LAN & Camera Access Requests
-<img src="/docs/images/LAN_access.jpeg" alt="LAN" title="LANAccess" width="240" height="500" /> 
-<img src="/docs/images/camera_access.jpeg" alt="Camera" title="CameraAccess" width="240" height="500" /> 
+### Miscellaneous
+<p align="center" float="left">
+  <figure>
+    <figcaption>Dark Mode & Application Info</figcaption>
+    <img src="/docs/gifs/dark_mode_demo.gif" alt="DarkMode" title="DarkMode" width="240" height="500" />
+  </figure>
+   
+  <figure>
+    <figcaption>LAN Access Request</figcaption>
+    <img src="/docs/images/LAN_access.jpeg" alt="LAN" title="LANAccess" width="240" height="500" /> 
+  </figure>
+  
+  <figure>
+    <figcaption>Camera Access Request</figcaption>
+    <img src="/docs/images/camera_access.jpeg" alt="Camera" title="CameraAccess" width="240" height="500" /> 
+  </figure>
+</p>
 
 
 ## License
