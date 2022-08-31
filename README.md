@@ -9,11 +9,12 @@ An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
-### Dependencies
+### Requirements
 
 * **Dependency**: [Focus Entity by Maxx Frazer](https://github.com/maxxfrazer/FocusEntity).
-* This application was developed and tested for iPhone 12 or newer, running iOS 15.5+. Theoretically, functions on iPhone 6s or newer, running iOS 13.0+.
-* Developed on Xcode 13
+* Optimal: iPhone 12 or newer, running iOS 15.5+. 
+* Minimum: iPhone 6s or newer, running iOS 13.0+.
+* Xcode 13
 
 ### Installing and Running
 
@@ -28,35 +29,26 @@ let anchorEntity = AnchorEntity(anchor: participantAnchor)
 * Compile project (connect physical device before this step).
 * Follow on-screen instructions for app download procedures (trusting device, signing on Xcode, etc.)
 
-## Application Feature Demos
-
+## Showcase
 ### Multipeer Connectivity Demo
 iPhone 12 (Left) & iPhone 13 Pro Max w/ LiDAR Support (Right)
-<img src="/docs/images/multipeer_picture.png" alt="MultipeerPic" title="MultipeerPic" width="600" height="480" /> 
-<img src="/docs/gifs/multipeer_demo.gif" alt="MultipeerDemo" title="MultipeerDemo" width="600" height="480" /> 
 
+<img src="/docs/gifs/multipeer_demo.gif" alt="MultipeerDemo" title="MultipeerDemo" width="600" height="550" /> 
 
 ### Miscellaneous
-<p align="center">
-  <figure>
-    <figcaption>Dark Mode & Application Info</figcaption>
-    <img src="/docs/gifs/dark_mode_demo.gif" alt="DarkMode" title="DarkMode" width="240" height="500" />
-  </figure>
-&nbsp; &nbsp; &nbsp;
-  <figure>
-    <figcaption>LAN Access Request</figcaption>
-    <img src="/docs/images/LAN_access.jpeg" alt="LAN" title="LANAccess" width="240" height="500" /> 
-  </figure>
-&nbsp; &nbsp; &nbsp;
-  <figure>
-    <figcaption>Camera Access Request</figcaption>
-    <img src="/docs/images/camera_access.jpeg" alt="Camera" title="CameraAccess" width="240" height="500" /> 
-  </figure>
+1. Dark Mode & Application Info
+2. LAN Access Request
+3. Camera Access Request
+<p float="left">
+  <img src="/docs/gifs/dark_mode_demo.gif" alt="DarkMode" title="DarkMode" width="240" height="500" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/docs/images/LAN_access.jpeg" alt="LAN" title="LANAccess" width="240" height="500" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/docs/images/camera_access.jpeg" alt="Camera" title="CameraAccess" width="240" height="500" /> 
 </p>
 
 
 ## License
-
 This project is licensed under the MIT License - see the LICENSE.txt file for details
 
 ## Frameworks
@@ -67,8 +59,7 @@ This project is licensed under the MIT License - see the LICENSE.txt file for de
 * [Multipeer Connectivity](https://developer.apple.com/documentation/multipeerconnectivity)
 
 ## Acknowledgements
-
-Inspiration, tutorials, dependencies, etc.
+Inspiration, tutorials, samples, dependencies, etc.
 * **Dependency**: [Focus Entity by Maxx Frazer](https://github.com/maxxfrazer/FocusEntity)
 * [Neumorphic Styles](https://www.hackingwithswift.com/articles/213/how-to-build-neumorphic-designs-with-swiftui)
 * [Apple ARKit Samples](https://developer.apple.com/documentation/arkit/)
