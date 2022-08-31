@@ -31,26 +31,17 @@ let anchorEntity = AnchorEntity(anchor: participantAnchor)
 ## Application Feature Demos
 
 ### Multipeer Connectivity Demo
-![MultipeerPic](/docs/images/multipeer_picture.png)
-<img src="/docs/images/icon.png" alt="MultipeerPic" title="MultipeerPic" width="500" height="400" /> 
-
-
-![MultipeerDemo](/docs/gifs/multipeer_demo.gif)
-<img src="/docs/images/icon.png" alt="MultipeerDemo" title="MultipeerDemo" width="500" height="400" /> 
+<img src="/docs/images/multipeer_picture.png" alt="MultipeerPic" title="MultipeerPic" width="600" height="480" /> 
+<img src="/docs/gifs/multipeer_demo.gif" alt="MultipeerDemo" title="MultipeerDemo" width="600" height="480" /> 
 
 
 ### Dark Mode & App Info Page
-![DarkMode](/docs/gifs/dark_mode_demo.gif)
-<img src="/docs/images/icon.png" alt="DarkMode" title="DarkMode" width="240" height="500" /> 
+<img src="/docs/gifs/dark_mode_demo.gif" alt="DarkMode" title="DarkMode" width="240" height="500" /> 
 
 
 ### LAN & Camera Access Requests
-![LAN](/docs/images/LAN_access.jpeg)
-<img src="/docs/images/icon.png" alt="LAN" title="LANAccess" width="240" height="500" /> 
-
-
-![Camera](/docs/images/camera_access.jpeg)
-<img src="/docs/images/icon.png" alt="Camera" title="CameraAccess" width="240" height="500" /> 
+<img src="/docs/images/LAN_access.jpeg" alt="LAN" title="LANAccess" width="240" height="500" /> 
+<img src="/docs/images/camera_access.jpeg" alt="Camera" title="CameraAccess" width="240" height="500" /> 
 
 
 ## License
