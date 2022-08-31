@@ -31,22 +31,23 @@ let anchorEntity = AnchorEntity(anchor: participantAnchor)
 ## Application Feature Demos
 
 ### Multipeer Connectivity Demo
+iPhone 12 (Left) & iPhone 13 Pro Max w/ LiDAR Support (Right)
 <img src="/docs/images/multipeer_picture.png" alt="MultipeerPic" title="MultipeerPic" width="600" height="480" /> 
 <img src="/docs/gifs/multipeer_demo.gif" alt="MultipeerDemo" title="MultipeerDemo" width="600" height="480" /> 
 
 
 ### Miscellaneous
-<p align="center" float="left">
+<p align="center">
   <figure>
     <figcaption>Dark Mode & Application Info</figcaption>
     <img src="/docs/gifs/dark_mode_demo.gif" alt="DarkMode" title="DarkMode" width="240" height="500" />
   </figure>
-   
+&nbsp; &nbsp; &nbsp;
   <figure>
     <figcaption>LAN Access Request</figcaption>
     <img src="/docs/images/LAN_access.jpeg" alt="LAN" title="LANAccess" width="240" height="500" /> 
   </figure>
-  
+&nbsp; &nbsp; &nbsp;
   <figure>
     <figcaption>Camera Access Request</figcaption>
     <img src="/docs/images/camera_access.jpeg" alt="Camera" title="CameraAccess" width="240" height="500" /> 
